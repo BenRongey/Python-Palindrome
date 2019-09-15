@@ -19,4 +19,4 @@ for year in y:
                 print (str(month) + '/' + str(day) + '/' + str(year))
                 count = count + 1
 
-print (count)
+print ("In a century there are " + str(count) + " palindrome dates!")
